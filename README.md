@@ -1,4 +1,4 @@
 # MadHacks_FindStuff
 
 
-Made this VR game and deployed it in Microsoft Hololen works perfectly when built on Windws system
+Details on this project can be found here : https://devpost.com/software/find-stuff
